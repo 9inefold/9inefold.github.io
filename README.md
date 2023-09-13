@@ -1,2 +1,2 @@
 # 8ightfold.github.io
-BLOG
+Core for pages... but you knew that already.
